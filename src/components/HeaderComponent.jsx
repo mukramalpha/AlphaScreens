@@ -25,7 +25,13 @@ const HeaderComponent = () => {
                   <NavLink to='/home' className='nav-link'>Home</NavLink>
                 </li>
                 <li className='navbar-item'>
-                  <NavLink to='/about' className='nav-link'>About</NavLink>
+                  <NavLink to='/about' className='nav-link'>About us</NavLink>
+                </li>
+                <li className='navbar-item'>
+                  <NavLink to='/services' className='nav-link'>Services</NavLink>
+                </li>
+                <li className='navbar-item'>
+                  <NavLink to='/contact' className='nav-link'>Contact us</NavLink>
                 </li>
                   
                </ul>
