@@ -5,11 +5,6 @@ import { NavLink, useNavigate } from 'react-router-dom'
 
 const HeaderComponent = () => {
 
-
-  
-
- 
-
   return (
     <div>
         <header>
@@ -51,6 +46,7 @@ const HeaderComponent = () => {
                </ul>
         </nav>
         </header>
+        
     </div>
   )
 }
