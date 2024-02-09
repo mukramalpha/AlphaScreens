@@ -11,31 +11,31 @@ function Carousal(){
       <Carousel> 
         <Carousel.Item interval={1500}> 
           <img 
-            className="d-block w-100"
+            className="d-block w-100 h-60"
 src="alpha.png"
             alt="Image One"
           /> 
          
         </Carousel.Item> 
-        <Carousel.Item interval={1000}> 
+        <Carousel.Item interval={500}> 
           <img 
-            className="d-block w-100"
+            className="d-block w-100 h-60"
 src="alpha2.png"
             alt="Image Two"
           /> 
          
         </Carousel.Item> 
-        <Carousel.Item interval={1000}> 
+        <Carousel.Item interval={500}> 
           <img 
-            className="d-block w-100"
+            className="d-block w-100 h-60"
 src="alpha3.png"
             alt="Image Two"
           /> 
          
         </Carousel.Item> 
-        <Carousel.Item interval={1000}> 
+        <Carousel.Item interval={500}> 
           <img 
-            className="d-block w-100"
+            className="d-block w-100 h-60"
 src="alpha4.png"
             alt="Image Two"
           /> 
