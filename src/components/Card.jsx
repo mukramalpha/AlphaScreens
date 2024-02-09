@@ -1,7 +1,7 @@
 function Card(){
     return (
 <div>
-        <section className="chefs p-5" id="chefs">
+        <section className="chefs " id="chefs">
             <div className="container">
                 <div className="grid">
                     <div className="row mt-5">
