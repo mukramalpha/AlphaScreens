@@ -13,10 +13,10 @@ function Card(){
                                    <p className="dance-font text-muted">Master in Web Application</p>
                                    <p className="lead fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, id.</p>
                                    <div className="d-flex justify-content-around">
-                                       <i className="fab fa-facebook text-primary fa-2x"></i>
-                                       <i className="fab fa-twitter text-info fa-2x"></i>
-                                       <i className="fab fa-youtube text-danger fa-2x"></i>
-                                       <i className="fab fa-instagram text-warning fa-2x"></i>
+                                       <i className="fa fa-facebook text-primary fa-2x"></i>
+                                       <i className="fa fa-twitter text-info fa-2x"></i>
+                                       <i className="fa fa-youtube text-danger fa-2x"></i>
+                                       <i className="fa fa-instagram text-warning fa-2x"></i>
                                    </div>
                                </div>
                            </div>
@@ -29,10 +29,10 @@ function Card(){
                                   <p className="dance-font text-muted">Master in Innovations</p>
                                   <p className="lead fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, id.</p>
                                   <div className="d-flex justify-content-around">
-                                      <i className="fab fa-facebook text-primary fa-2x"></i>
-                                      <i className="fab fa-twitter text-info fa-2x"></i>
-                                      <i className="fab fa-youtube text-danger fa-2x"></i>
-                                      <i className="fab fa-instagram text-warning fa-2x"></i>
+                                      <i className="fa fa-facebook text-primary fa-2x"></i>
+                                      <i className="fa fa-twitter text-info fa-2x"></i>
+                                      <i className="fa fa-youtube text-danger fa-2x"></i>
+                                      <i className="fa fa-instagram text-warning fa-2x"></i>
                                   </div>
                               </div>
                           </div>
@@ -45,10 +45,10 @@ function Card(){
                                   <p className="dance-font text-muted">Master in Mobile Apps</p>
                                   <p className="lead fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, id.</p>
                                   <div className="d-flex justify-content-around">
-                                      <i className="fab fa-facebook text-primary fa-2x"></i>
-                                      <i className="fab fa-twitter text-info fa-2x"></i>
-                                      <i className="fab fa-youtube text-danger fa-2x"></i>
-                                      <i className="fab fa-instagram text-warning fa-2x"></i>
+                                      <i className="fa fa-facebook text-primary fa-2x"></i>
+                                      <i className="fa fa-twitter text-info fa-2x"></i>
+                                      <i className="fa fa-youtube text-danger fa-2x"></i>
+                                      <i className="fa fa-instagram text-warning fa-2x"></i>
                                   </div>
                               </div>
                           </div>
@@ -61,10 +61,10 @@ function Card(){
                                   <p className="dance-font text-muted">Master in AI</p>
                                   <p className="lead fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, id.</p>
                                   <div className="d-flex justify-content-around">
-                                      <i className="fab fa-facebook text-primary fa-2x"></i>
-                                      <i className="fab fa-twitter text-info fa-2x"></i>
-                                      <i className="fab fa-youtube text-danger fa-2x"></i>
-                                      <i className="fab fa-instagram text-warning fa-2x"></i>
+                                      <i className="fa fa-facebook text-primary fa-2x"></i>
+                                      <i className="fa fa-twitter text-info fa-2x"></i>
+                                      <i className="fa fa-youtube text-danger fa-2x"></i>
+                                      <i className="fa fa-instagram text-warning fa-2x"></i>
                                   </div>
                               </div>
                           </div>
