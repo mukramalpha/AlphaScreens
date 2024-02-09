@@ -5,6 +5,7 @@ import FooterComponent from './components/FooterComponent'
 import {BrowserRouter,Routes,Route, Navigate} from 'react-router-dom'
 import Carousal from './components/Carousal'
 import Card from './components/Card'
+import Section from './components/Section'
 
 
 
@@ -17,6 +18,7 @@ function App() {
        <HeaderComponent/>
 
        <Carousal/>
+       <Section/>
        <Card/>
 
        
