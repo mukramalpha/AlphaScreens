@@ -6,7 +6,7 @@ function Carousal(){
     return(
         <> 
   
-  <div style={{ display: 'block', width: 1300, padding: 0 }}> 
+  <div style={{ display: 'block', width: 2000, padding: 0 }}> 
        
       <Carousel> 
         <Carousel.Item interval={1500}> 

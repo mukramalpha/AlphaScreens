@@ -4,7 +4,8 @@ import HeaderComponent from './components/HeaderComponent'
 import FooterComponent from './components/FooterComponent'
 import {BrowserRouter,Routes,Route, Navigate} from 'react-router-dom'
 import Carousal from './components/Carousal'
-import MyApp from './components/MyApp'
+import Card from './components/Card'
+
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
        <HeaderComponent/>
 
        <Carousal/>
-       
+       <Card/>
 
        
      </BrowserRouter>
