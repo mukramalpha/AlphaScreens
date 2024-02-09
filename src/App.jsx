@@ -7,6 +7,7 @@ import Carousal from './components/Carousal'
 import Section from './components/Section'
 import Card from './components/Card'
 import 'font-awesome/css/font-awesome.min.css';
+import 'animate.css';
 
 function App() {
 
