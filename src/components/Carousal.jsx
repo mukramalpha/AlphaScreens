@@ -6,21 +6,29 @@ function Carousal(){
     return(
         <> 
   
-  <div style={{ display: 'block', width: 1300, padding: 0 }}> 
-       
+ 
+  <div style={{ display: 'block', width:2000, padding: 0 }}> 
       <Carousel> 
         <Carousel.Item interval={2500}> 
           <img 
-            className="d-block w-100 h-60"
-src="alpha.png"
+            className="d-block w-100"
+src="b1.jpg"
             alt="Image One"
           /> 
          
         </Carousel.Item> 
         <Carousel.Item interval={1500}> 
           <img 
-            className="d-block w-100 h-60"
-src="alpha2.png"
+            className="d-block w-100"
+src="b5.jpg"
+            alt="Image Two"
+          /> 
+         
+        </Carousel.Item> 
+        <Carousel.Item interval={1500}> 
+          <img 
+            className="d-block w-100"
+src="b3.jpg"
             alt="Image Two"
           /> 
          
@@ -28,22 +36,14 @@ src="alpha2.png"
         <Carousel.Item interval={1500}> 
           <img 
             className="d-block w-100 h-60"
-src="alpha3.png"
-            alt="Image Two"
-          /> 
-         
-        </Carousel.Item> 
-        <Carousel.Item interval={1500}> 
-          <img 
-            className="d-block w-100 h-60"
-src="alpha4.png"
+src="b4.jpg"
             alt="Image Two"
           /> 
          
         </Carousel.Item> 
       </Carousel> 
-    </div> 
-  
+    
+        </div>
        </>
     )
 }
