@@ -7,7 +7,7 @@ function Carousal(){
         <> 
   
  
-  <div style={{ display: 'block', width:2000, padding: 0 }}> 
+  <div style={{ display: 'block', width:1500, padding: 0 }}> 
       <Carousel> 
         <Carousel.Item interval={2500}> 
           <img 
@@ -28,7 +28,7 @@ src="b5.jpg"
         <Carousel.Item interval={1500}> 
           <img 
             className="d-block w-100"
-src="b3.jpg"
+src="app.png"
             alt="Image Two"
           /> 
          
@@ -36,7 +36,7 @@ src="b3.jpg"
         <Carousel.Item interval={1500}> 
           <img 
             className="d-block w-100 h-60"
-src="b4.jpg"
+src="dm.png"
             alt="Image Two"
           /> 
          
